@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: green;
+}
+body{
+    background-image: url(../img/feuilles-tropicales-vert-fonce-retroeclairage-neon-colore-palmier-monstera-ia-generative_438099-11562.jpg);
+}
+strong1{
+    color: green;
+}
+strong2{
+    color: red;
+}
+strong3{
+    color: yellow;
+}
+a1{
+    color: rgb(160, 201, 12);
+}
+p{
+    animation-duration: 4s;
+    text-align: center;
+    color: rgb(0, 28, 155);
+    background-color: rgb(116, 255, 139);
+}
+img{
+    text-align: center;
+}
+h2{
+    
+    color: rgb(255, 255, 255);
+}
+li{
+    color: rgb(223, 248, 1);
+}
+h3{
+    color: chartreuse;
+    text-align: center;
+}
